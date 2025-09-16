@@ -16,6 +16,10 @@ tqdm==4.67.1
 typing-inspection==0.4.1
 typing_extensions==4.15.0
 
+# LiteLLM + LangChain community integration for unified model routing
+litellm
+langchain-community
+
 # LangChain packages used by prompt_chain.py
 langchain-core
 langchain-openai
